@@ -8,8 +8,7 @@ I only included starting pitchers, that is pitchers' seasons  whose Games Starte
 
 
 ## Sources
-The dataset came from Kaggle's Baseball Databank. I only used the "Pitching" file, which includes over 44,000 pitchers' seasons (rows) and their statistics from 1871 to 2015. The recorded statistics used for this project were Player, Year, Team, Wins, Losses, Games, Games Started, Shut-outs, Innings/Outs Pitched, and Earned Run Average. To wrangle and analyze the data I imported the Pandas Data Analysis Library for Python. 
-https://www.kaggle.com/open-source-sports/baseball-databank This is the Kaggle I got my data from. 
+The dataset came from [Kaggle's Baseball Databank](https://www.kaggle.com/open-source-sports/baseball-databank). I only used the "Pitching" file, which includes over 44,000 pitchers' seasons (rows) and their statistics from 1871 to 2015. The recorded statistics used for this project were Player, Year, Team, Wins, Losses, Games, Games Started, Shut-outs, Innings/Outs Pitched, and Earned Run Average. To wrangle and analyze the data I imported the Pandas Data Analysis Library for Python. 
 
 
 
