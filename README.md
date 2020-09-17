@@ -15,4 +15,4 @@ https://www.kaggle.com/open-source-sports/baseball-databank This is the Kaggle I
 
 ## How to navigate my Github Repo
 The data can be found in the "Data" directory. There is a raw data file and a cleaned data file. 
-There are also two Jupyter notebooks. One notebook named "Code - Other Notebook" shows how I was able to wrangle the data. The one labeled Technical Notebook is where I performed my analysis on the data . 
+There are also two Jupyter notebooks. One notebook named "Code - Other Notebook" shows how I was able to wrangle the data. The one labeled "Technical Notebook" is where I performed my analysis on the data . 
